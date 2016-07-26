@@ -1,4 +1,4 @@
-Add to home screen
+SublimeText Tips
 ===
 
-https://kzhrk-slide.github.io/add-to-homescreen/
+https://kzhrk-slide.github.io/sublime-tips/
