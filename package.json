@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "maintainable-css",
+  "scripts": {
+    "start": "browser-sync start --server ./ --files ./"
+  },
+  "author": "kzhrk",
+  "license": "NYSL",
+  "devDependencies": {
+    "browser-sync": "^2.12.8"
+  }
+}
