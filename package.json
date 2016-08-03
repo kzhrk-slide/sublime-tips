@@ -1,6 +1,5 @@
 {
   "private": true,
-  "name": "maintainable-css",
   "scripts": {
     "start": "browser-sync start --server ./ --files ./"
   },
